@@ -1,0 +1,14 @@
+
+# Auto-added by cleanup script
+__pycache__/
+*.pyc
+.env
+.env.local
+node_modules/
+dist/
+build/
+coverage/
+logs/
+outputs/
+*.log
+.pytest_cache/
